@@ -1,3 +1,3 @@
 # Predict-Employee-Attrition
 
-Predicting Employee Attrition using their past data using Machine Learning.
+Objective : Predict Employee Attrition by the given data about his/her past history.
